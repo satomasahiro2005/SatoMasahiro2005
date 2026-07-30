@@ -1,9 +1,14 @@
-<p align="center">
-  <img src="./nemutai-logo.svg" alt="nemut.ai" width="300">
-</p>
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/satomasahiro2005/contribution-life/output/contribution-life-dark.svg">
+  <img alt="My contribution graph running Conway's Game of Life"
+       src="https://raw.githubusercontent.com/satomasahiro2005/contribution-life/output/contribution-life.svg">
 </picture>
+
+<br>
+
+[![contribution-life](https://img.shields.io/badge/contribution--life-source-2ea043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satomasahiro2005/contribution-life)
+
+</div>
