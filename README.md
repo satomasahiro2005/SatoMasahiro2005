@@ -1,4 +1,6 @@
-![nemut.ai](./nemutai-logo.svg)
+<p align="center">
+  <img src="./nemutai-logo.svg" alt="nemut.ai" width="300">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
