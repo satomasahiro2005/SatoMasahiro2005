@@ -3,9 +3,9 @@
 <a href="https://github.com/satomasahiro2005/contribution-life">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/satomasahiro2005/contribution-life/output/contribution-life-dark.svg">
+            srcset="https://raw.githubusercontent.com/satomasahiro2005/SatoMasahiro2005/output/contribution-life-dark.svg">
     <img alt="My contribution graph running Conway's Game of Life"
-         src="https://raw.githubusercontent.com/satomasahiro2005/contribution-life/output/contribution-life.svg">
+         src="https://raw.githubusercontent.com/satomasahiro2005/SatoMasahiro2005/output/contribution-life.svg">
   </picture>
 </a>
 
