@@ -1,0 +1,45 @@
+name: contribution-life
+
+on:
+  schedule:
+    - cron: "17 15 * * *"   # 00:17 JST, so a full day of commits is included
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-life
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # required: the publish step below needs to be inside a git checkout
+      - uses: actions/checkout@v7
+
+      - uses: satomasahiro2005/contribution-life@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # everything below is optional; the value shown is the default
+          # layout:     calendar  # calendar 53x7 | split 27x7 twice | square 19x19
+          # rule:       B3/S23    # any Life-like B../S..
+          # gens:       0         # generations per loop; 0 fits it to the board
+          # seed_level: 0         # lowest level counted as alive, 1-4; 0 = auto
+          # color:      hybrid    # hybrid | density | age | gene
+          # edges:      torus     # torus | dead | auto
+
+      - name: Publish the SVGs to an orphan branch
+        run: |
+          set -euo pipefail
+          staging=$(mktemp -d) && cp dist/*.svg "$staging/"
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git rm -rf . >/dev/null 2>&1 || true
+          cp "$staging"/*.svg .
+          git add ./*.svg
+          git commit -m "contribution-life $(date -u +%F)"
+          git push -f origin output
