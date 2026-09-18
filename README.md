@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://apps.apple.com/app/effectdeck/id6812467517"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satomasahiro2005/EffectDeck/main/docs/icon-dark.png"><img alt="EffectDeck" width="108" src="https://raw.githubusercontent.com/satomasahiro2005/EffectDeck/main/docs/icon.png"></picture></a>
-  <a href="https://apps.apple.com/app/effectdeck/id6812467517"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/effectdeck-dark.svg"><img alt="EffectDeck — Download on the App Store" width="168" src="assets/effectdeck-light.svg"></picture></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/app/effectdeck/id6812467517"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/effectdeck-dark.svg"><img alt="EffectDeck — Download on the App Store" width="278" src="assets/effectdeck-light.svg"></picture></a>
 </p>
 
 <p align="center">
