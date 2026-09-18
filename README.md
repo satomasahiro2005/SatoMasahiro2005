@@ -16,7 +16,7 @@
   <a href="https://qr.nemut.ai/"><img alt="QR Code Inspector website" src="https://img.shields.io/badge/QR%20Code%20Inspector-qr.nemut.ai-6E40C9?style=for-the-badge&logo=safari&logoColor=white"></a>
 </p>
 
-<p align="center"><sub>QR コードは株式会社デンソーウェーブの登録商標です。</sub></p>
+<p align="center"><sub>QR Code is a registered trademark of DENSO WAVE INCORPORATED.</sub></p>
 
 ☆お気に入り☆
 
