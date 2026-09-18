@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/satomasahiro2005/EffectDeck"><img alt="EffectDeck source" src="https://img.shields.io/badge/EffectDeck-source-0D96F6?style=for-the-badge&logo=github&logoColor=white"></a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://qr.nemut.ai/"><img alt="QR Code Inspector website" src="https://img.shields.io/badge/QR%20Code%20Inspector-qr.nemut.ai-6E40C9?style=for-the-badge&logo=safari&logoColor=white"></a>
 </p>
 
