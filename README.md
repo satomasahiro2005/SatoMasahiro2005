@@ -1,13 +1,13 @@
 ☆最新リリース☆
 
 <p align="center">
-  <a href="https://apps.apple.com/app/effectdeck/id6812467517"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satomasahiro2005/EffectDeck/main/docs/icon-dark.png"><img alt="EffectDeck" width="88" src="https://raw.githubusercontent.com/satomasahiro2005/EffectDeck/main/docs/icon.png"></picture></a>
+  <a href="https://apps.apple.com/app/effectdeck/id6812467517"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satomasahiro2005/EffectDeck/main/docs/icon-dark.png"><img alt="EffectDeck" width="104" src="https://raw.githubusercontent.com/satomasahiro2005/EffectDeck/main/docs/icon.png"></picture></a>
   &nbsp;
-  <a href="https://apps.apple.com/app/effectdeck/id6812467517"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/effectdeck-dark.svg?v=3"><img alt="EffectDeck - Download on the App Store" width="266" src="assets/effectdeck-light.svg?v=3"></picture></a>
+  <a href="https://apps.apple.com/app/effectdeck/id6812467517"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/effectdeck-dark.svg?v=4"><img alt="EffectDeck - Download on the App Store" width="240" src="assets/effectdeck-light.svg?v=4"></picture></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://apps.apple.com/app/id6756510318"><img alt="QR Code Inspector Devtools" width="88" src="assets/qr-icon.png"></a>
+  <a href="https://apps.apple.com/app/id6756510318"><img alt="QR Code Inspector Devtools" width="104" src="assets/qr-icon.png"></a>
   &nbsp;
-  <a href="https://apps.apple.com/app/id6756510318"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/qrinspector-dark.svg?v=3"><img alt="QR Code Inspector Devtools - Download on the App Store" width="266" src="assets/qrinspector-light.svg?v=3"></picture></a>
+  <a href="https://apps.apple.com/app/id6756510318"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/qrinspector-dark.svg?v=4"><img alt="QR Code Inspector Devtools - Download on the App Store" width="240" src="assets/qrinspector-light.svg?v=4"></picture></a>
 </p>
 
 <p align="center">
