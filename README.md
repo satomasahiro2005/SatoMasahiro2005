@@ -1,14 +1,13 @@
 ☆最新リリース☆
 
-<a href="https://apps.apple.com/app/effectdeck/id6812467517"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satomasahiro2005/EffectDeck/main/docs/icon-dark.png"><img align="left" alt="EffectDeck" width="108" src="https://raw.githubusercontent.com/satomasahiro2005/EffectDeck/main/docs/icon.png"></picture></a>
+<p align="center">
+  <a href="https://apps.apple.com/app/effectdeck/id6812467517"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satomasahiro2005/EffectDeck/main/docs/icon-dark.png"><img alt="EffectDeck" width="108" src="https://raw.githubusercontent.com/satomasahiro2005/EffectDeck/main/docs/icon.png"></picture></a>
+  <a href="https://apps.apple.com/app/effectdeck/id6812467517"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/effectdeck-dark.svg"><img alt="EffectDeck — Download on the App Store" width="168" src="assets/effectdeck-light.svg"></picture></a>
+</p>
 
-### EffectDeck
-
-<a href="https://apps.apple.com/app/effectdeck/id6812467517"><img alt="Download on the App Store" width="168" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"></a>
-
-<br clear="left">
-
-[![EffectDeck](https://img.shields.io/badge/EffectDeck-source-0D96F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satomasahiro2005/EffectDeck)
+<p align="center">
+  <a href="https://github.com/satomasahiro2005/EffectDeck"><img alt="EffectDeck source" src="https://img.shields.io/badge/EffectDeck-source-0D96F6?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ☆お気に入り☆
 
