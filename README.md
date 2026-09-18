@@ -13,6 +13,23 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://apps.apple.com/app/effectdeck/id6812467517">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/satomasahiro2005/EffectDeck/main/docs/icon-dark.png">
+    <img alt="EffectDeck" width="104"
+         src="https://raw.githubusercontent.com/satomasahiro2005/EffectDeck/main/docs/icon.png">
+  </picture>
+</a>
+
+<a href="https://apps.apple.com/app/effectdeck/id6812467517"><img alt="Download on the App Store" width="180" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"></a>
+
+[![EffectDeck](https://img.shields.io/badge/EffectDeck-source-0D96F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satomasahiro2005/EffectDeck)
+
+</div>
+
 ☆お気に入り☆
 
 <a href="https://twitter.com/intent/follow?screen_name=ainemut"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg"><img align="right" alt="Follow @ainemut on Twitter" src="assets/card-light.svg"></picture></a>
